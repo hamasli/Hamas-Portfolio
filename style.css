@@ -1,0 +1,13 @@
+/* Add your custom CSS here */
+body {
+    padding-top: 70px; /* Adjust based on navbar height */
+  }
+  
+  .card {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
